@@ -1,0 +1,7 @@
+numpy
+torch
+nltk
+transformers
+ir_datasets
+jupyter
+ipykernel
